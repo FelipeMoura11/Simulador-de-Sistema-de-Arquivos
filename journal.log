@@ -1,0 +1,8 @@
+[2025-06-02T18:33:23.720928] Criado diretório: root/projetos
+[2025-06-02T18:33:34.222911700] Criado arquivo: root/projetos/relatorio.txt
+[2025-06-02T18:33:40.358048] Listagem de: root/projetos
+[2025-06-02T18:33:44.961489600] Arquivo renomeado: root/projetos/relatorio.txt → resumo.txt
+[2025-06-02T18:33:50.173705900] Arquivo removido: root/projetos/resumo.txt
+[2025-06-02T18:47:38.098061600] Criado arquivo: root/teste.txt
+[2025-06-02T18:47:43.805716] Arquivo copiado: root/teste.txt → copia.txt
+[2025-06-02T18:47:49.062042800] Listagem de: root
